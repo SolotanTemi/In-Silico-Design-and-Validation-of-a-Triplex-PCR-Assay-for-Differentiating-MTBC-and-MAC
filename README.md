@@ -60,8 +60,8 @@ To replicate this bioinformatics analysis, ensure you have a Python 3.8+ environ
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[your-username]/triplex-pcr-design.git
-    cd triplex-pcr-design
+    git clone https://github.com/SolotanTemi/In-Silico-Design-and-Validation-of-a-Triplex-PCR-Assay-for-Differentiating-MTBC-and-MAC.git
+    cd In-Silico-Design-and-Validation-of-a-Triplex-PCR-Assay-for-Differentiating-MTBC-and-MAC
     ```
 2.  **Install dependencies:**
     ```bash
