@@ -1,0 +1,19 @@
+Assay role,Primer side,Panel group,Number of exact-hit records,Hit record IDs
+Primary MTBC target,Forward,MTBC panel,2,"CP002095.1, AP018036.1"
+Primary MTBC target,Forward,MAC panel,0,
+Primary MTBC target,Forward,Off-target panel,0,
+Primary MTBC target,Reverse,MTBC panel,2,"CP002095.1, AP018036.1"
+Primary MTBC target,Reverse,MAC panel,0,
+Primary MTBC target,Reverse,Off-target panel,0,
+Secondary MTBC target,Forward,MTBC panel,2,"CP002095.1, AP018036.1"
+Secondary MTBC target,Forward,MAC panel,0,
+Secondary MTBC target,Forward,Off-target panel,0,
+Secondary MTBC target,Reverse,MTBC panel,2,"CP002095.1, AP018036.1"
+Secondary MTBC target,Reverse,MAC panel,0,
+Secondary MTBC target,Reverse,Off-target panel,0,
+MAC target,Forward,MTBC panel,0,
+MAC target,Forward,MAC panel,0,
+MAC target,Forward,Off-target panel,0,
+MAC target,Reverse,MTBC panel,0,
+MAC target,Reverse,MAC panel,0,
+MAC target,Reverse,Off-target panel,0,
