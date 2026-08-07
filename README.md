@@ -76,8 +76,4 @@ To replicate this bioinformatics analysis, ensure you have a Python 3.8+ environ
 
 ---
 **Ethical AI Usage Note:** 
-*Artificial Intelligence tools were utilized during the development of this project strictly for code troubleshooting, debugging, and assisting in the structuring of documentation, in accordance with standard ethical use policies for computational research.*
-
----
-**Ethical AI Usage Note:** 
-*Artificial Intelligence tools were utilized during the development of this project strictly for code troubleshooting, debugging, and assisting in the structuring of documentation, in accordance with standard ethical use policies for computational research.*
+*Artificial Intelligence tools were utilized during the development of this project strictly for code troubleshooting, debugging, and assisting in the structuring of documentation, in accordance with standard ethical use policies.*
